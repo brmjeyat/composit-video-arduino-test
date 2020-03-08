@@ -1,5 +1,5 @@
 # composit-video-arduino-test
-<div dir="rtl">
+<div dir="rtl" align="center">
 مشروع تجريب لفهم كيفية توليد فيديو لعرضه عبر مخرج الفيديو من نوع composite video  الخاص بالتليفيزيونات 
 <br/>
 <img src="assets/compsit001.jpg" ><img/>
