@@ -4,19 +4,19 @@
 <br/>
  الشيء الاول المراد فهمه ان موجة عرض الفيديو المرسلة للتلفزيون هو 64 مايكروثانية us 
 <br/>
-<img src="assets/compsit01.jpg" ><img/>
-<br/>
-<img src="assets/compsit02.jpg" ><img/>
-<br/>
-<img src="assets/compsit03.jpg" ><img/>
+<img src="assets/compsit05.jpg" ><img/>
 <br/>
 <img src="assets/compsit04.jpg" ><img/>
 <br/>
-<img src="assets/compsit05.jpg" ><img/>
+<img src="assets/compsit03.jpg" ><img/>
 <br/>
-<img src="assets/compsit06.jpg" ><img/>
+<img src="assets/compsit02.jpg" ><img/>
+<br/>
+<img src="assets/compsit01.jpg" ><img/>
 <br/>
 <img src="assets/compsit00.jpg" ><img/>
+<br/>
+<img src="assets/compsit06.jpg" ><img/>
 <br/>
 
 </div>
