@@ -1,5 +1,5 @@
 # composit-video-arduino-test
-<div dir="rtl" align="center">
+<div dir="rtl" align="center" color="black">
 مشروع تجريبي لفهم كيفية توليد فيديو لعرضه عبر مخرج فيديو من نوع composite video الخاص بالتيليفيزيون 
 <br/>
 الشيء الاول المراد فهمه أن عرض موجة إشارة الفيديو المرسلة للتلفزيون هو 64 مايكروثانية μ64 
