@@ -1,4 +1,4 @@
-# composit-video-arduino-test
+# composite-video-arduino-test
 <div dir="rtl" align="center" color="black">
 مشروع تجريبي لفهم كيفية توليد فيديو لعرضه عبر مخرج فيديو من نوع composite video الخاص بالتيليفيزيون 
 <br/>
