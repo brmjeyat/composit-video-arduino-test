@@ -2,6 +2,9 @@
 <div dir="rtl" align="center" color="black">
 مشروع تجريبي لفهم كيفية توليد فيديو لعرضه عبر مخرج فيديو من نوع composite video الخاص بالتيليفيزيون 
 <br/>
+ <br/>  صفحة ويكي المشروع 
+ https://github.com/No-Shit/composit-video-arduino-test/wiki
+ <br/>
 الشيء الاول المراد فهمه أن عرض موجة إشارة الفيديو المرسلة للتلفزيون هو 64 مايكروثانية μ64 
 <br/>
  تساوي  
