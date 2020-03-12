@@ -6,9 +6,9 @@ void setup() {
   pinMode( PA8 , PWM)  ;
   // Serial.begin(9600);
  pwmtimer2.pause();
- pwmtimer2.setPrescaleFactor( 1    ) ;
+ pwmtimer2.setPrescaleFactor(    17.5    ) ;
 // divid factor for main frequency , if  /2 = 36,000,000     .
-    pwmtimer2.setOverflow (   2250   ) ; //  1500   2000
+    pwmtimer2.setOverflow (   256   ) ; //  1500   2000
     pwmtimer2.refresh();
     pwmtimer2.resume();    //pwmtimer2.();
     pwmWrite( PA8  ,0   ) ;
