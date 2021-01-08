@@ -1,7 +1,7 @@
 #include <HardwareTimer.h>
 #include "hex.h"  
-unsigned int p = 0            ;  
-HardwareTimer pwmtimer2(  1 ) ;      //  char Text [6];     
+unsigned int p = 0            ;   //  char Text [6]; 
+HardwareTimer pwmtimer2(  1 ) ;  //  http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/lang/api/hardwaretimer.html       
 void setup() {  
   pinMode( PA8 , PWM)  ;
   // Serial.begin(9600);
