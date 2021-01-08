@@ -2,10 +2,11 @@
 #include "hex.h"  
 unsigned int p = 0            ;   //  char Text [6]; 
 HardwareTimer pwmtimer2(  1 ) ;  //  PWM
-//  http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/lang/api/hardwaretimer.html       
+// PWM functionality on a given pin depends on the configuration of the timer and channel 
+//http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/lang/api/hardwaretimer.html       
 void setup() {  
   pinMode( PA8 , PWM)  ;
-// Serial.begin(9600);
+// Serial.begin(9600)  ;
  pwmtimer2.pause();
  pwmtimer2.setPrescaleFactor(    17.5    ) ;  //  72000000 ÷ 17.5 = 4,114,285 , prescale from 1 to 65,536
 //   configure how fast your timer counter changes (using the prescaler) 
