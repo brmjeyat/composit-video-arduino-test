@@ -1,5 +1,5 @@
 #include <HardwareTimer.h>
-#include "hex.h"  
+#include "hex.h"     // PCM recorde audio sample (^^file inluded in the repository)
 unsigned int p = 0            ;   //  char Text [6]; 
 HardwareTimer pwmtimer2(  1 ) ;  //  PWM
 // PWM functionality on a given pin depends on the configuration of the timer and channel 
